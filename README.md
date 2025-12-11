@@ -1,4 +1,4 @@
-Hi, I’m Mal — Emerging Data & BI Analyst
+Hi, I’m Malwandla — Emerging Data & BI Analyst
 SQL • Power BI • Data Analytics • AWS (in progress)
 
 This is my portfolio where I upload my data projects, dashboards, analyses, and learning journey.
